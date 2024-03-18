@@ -1,4 +1,4 @@
-require 'prob_3'
+require 'prob_4'
 
 RSpec.describe BankAccount do
   describe "#deposit" do
